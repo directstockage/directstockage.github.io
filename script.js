@@ -24,3 +24,6 @@
     } else {ev.preventDefault();msg.textContent="Le formulaire n'est pas encore relié à une adresse de réception (voir le README).";}
   });
 })();
+
+(function(){var b=document.getElementById('loadmap'); if(!b) return;
+  b.addEventListener('click',function(){var f=document.getElementById('mapframe'); f.src=b.dataset.src; f.hidden=false; b.parentNode.hidden=true;});})();
