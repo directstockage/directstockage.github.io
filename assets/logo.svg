@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 150" role="img" aria-labelledby="title desc">
+<title id="title">Bretagne Sud Stockage</title><desc id="desc">Symbole géométrique de container bleu nuit et orange, suivi du nom Bretagne Sud Stockage.</desc>
+<g transform="translate(4 18)">
+  <path d="M8 42 L94 8 L151 24 L151 111 L8 92 Z" fill="#102c3a"/>
+  <path d="M15 46 L91 17 L91 98 L15 88 Z" fill="#294b58"/>
+  <path d="M25 48 L25 86 M40 42 L40 88 M55 36 L55 90 M70 30 L70 93" stroke="#f5f1e8" stroke-width="3" opacity=".88"/>
+  <path d="M94 8 L151 24 L151 111 L94 98 Z" fill="#b64a28" stroke="#102c3a" stroke-width="4"/>
+  <path d="M122 16 L122 105" stroke="#f5f1e8" stroke-width="3"/>
+  <path d="M108 59 L116 59 M128 59 L136 59" stroke="#f5f1e8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M8 42 L94 8 L151 24" fill="none" stroke="#102c3a" stroke-width="5" stroke-linejoin="round"/>
+</g>
+<text x="178" y="69" fill="#102c3a" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="800" letter-spacing="1.1">BRETAGNE SUD</text>
+<text x="180" y="112" fill="#b64a28" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" letter-spacing="8">STOCKAGE</text>
+</svg>
