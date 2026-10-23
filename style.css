@@ -9,7 +9,7 @@ h1,h2,h3{font-family:Archivo,'Arial Black',sans-serif;font-stretch:125%;font-wei
 nav.top{position:sticky;top:0;z-index:50;background:var(--ardoise);color:var(--paper);border-bottom:3px solid var(--rouille)}
 nav.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-top:14px;padding-bottom:14px;flex-wrap:wrap}
 .logo{font-family:Archivo,sans-serif;font-stretch:125%;font-weight:800;text-decoration:none;display:flex;align-items:center;gap:10px;font-size:1rem}
-.logo .dot{width:10px;height:10px;background:var(--rouille)}
+.logo img{width:34px;height:34px;display:block}
 .navlinks{display:flex;gap:22px;font-size:.9rem;font-weight:500}
 .navlinks a{text-decoration:none;opacity:.85}.navlinks a:hover,.navlinks a[aria-current]{opacity:1;text-decoration:underline;text-underline-offset:6px;text-decoration-color:var(--rouille)}
 .nav-right{display:flex;align-items:center;gap:16px}.nav-tel{text-decoration:none;font-weight:600;font-size:.9rem}
